@@ -16,9 +16,11 @@
 ### 정리
 | 주차 | 챕터 | 발표자 |
 |----------|----------|----------|
-| 4주차   | 인덱스(Btree)   | 미정   |
+| 4주차   | 인덱스(Btree)   | 뉴비,무지,KMS   |
+| 5주차   | 인덱스(Btree 이후)   | 미정   |
 
 
 ### 노트 정리
 - 8장
   - 뉴비 : [노션](https://button-sailboat-3f8.notion.site/8-Index-ab167f52adeb4f4f903a6d0092223519?pvs=4)
+  - KMS : [노션](https://kamser.notion.site/6e26d32df7834703b17649bf86e011bb?pvs=4)
