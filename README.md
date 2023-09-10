@@ -17,7 +17,7 @@
 | 주차 | 챕터 | 발표자 |
 |----------|----------|----------|
 | 4주차   | 인덱스(Btree)   | 뉴비,무지,KMS   |
-| 5주차   | 인덱스(Btree 이후)   | 미정   |
+| 5주차   | 인덱스(Btree 이후)   | 무지,KMS   |
 
 
 ### 노트 정리
@@ -26,3 +26,4 @@
   - KMS : [노션](https://kamser.notion.site/6e26d32df7834703b17649bf86e011bb?pvs=4)
 - 8장 R-Tree
   - KMS : [노션](https://kamser.notion.site/75f212af284f429c8d0f7a00925ced26?pvs=25)
+- 9장 옵티마이저 개요와 데이터 처리
